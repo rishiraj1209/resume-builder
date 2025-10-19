@@ -16,7 +16,7 @@ app.use(express.json())
 
 // allow your frontend and local dev
 const allowedOrigins = [
-  "https://resume-builder-frontend.onrender.com", // your Render frontend URL
+  "https://resume-builder-frontend-4xjp.onrender.com", // your Render frontend URL
   "http://localhost:5173" // your local Vite dev server
 ];
 
